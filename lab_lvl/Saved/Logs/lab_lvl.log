@@ -1147,3 +1147,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.08-20.40.35:422][209]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.08-20.40.35:422][209]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.06.08-20.40.35:422][209]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.08-20.42.56:540][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.06.08-20.42.56:550][914]LogSavePackage: Moving 'D:/Labyrinthe/lab_lvl/Saved/ThirdPersonExampleMapDCA8B7A146073DB0D49AFAB1E794BE18.tmp' to 'D:/Labyrinthe/lab_lvl/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.08-20.42.56:553][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/Labyrinthe/lab_lvl/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2021.06.08-20.42.56:590][914]LogSavePackage: Moving 'D:/Labyrinthe/lab_lvl/Saved/ThirdPersonExampleMap_BuiltDataCB0B31BB4B6B5EE96C120FA72CAC578C.tmp' to 'D:/Labyrinthe/lab_lvl/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.06.08-20.42.56:599][914]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.08-20.42.56:599][914]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.06.08-20.42.56:599][914]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
